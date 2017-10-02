@@ -5,9 +5,9 @@ url: ""
 
 # Jekyll-Store Engine
 defaultAddress:
-  country: GB
+  country: ID
 payment:
-  currency: GBP
+  currency: IDR
   hook: 'https://jekyll-store-microservice.herokuapp.com/purchase'
 tracking_id: 'UA-62379004-1'
 
@@ -19,7 +19,7 @@ disqus_shortname: 'jekyll-store'
 
 # http://openexchangerates.github.io/accounting.js/#documentation
 accounting:
-  symbol : '£'
+  symbol : 'Rp'
   format: '%s%v'
   decimal : '.'
   thousand: ','
